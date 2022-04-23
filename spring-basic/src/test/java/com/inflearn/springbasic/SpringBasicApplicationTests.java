@@ -1,10 +1,10 @@
-package hello.hellospring;
+package com.inflearn.springbasic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringApplicationTests {
+class SpringBasicApplicationTests {
 
 	@Test
 	void contextLoads() {

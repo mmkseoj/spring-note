@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'hello'
+group = 'com.inflearn'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
